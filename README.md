@@ -12,7 +12,7 @@ Code Versioning: Git and Github
 - 🌱🔭 I'm currently studying Node.js, React, Express, Prisma, etc.
 - 👯 I'm collaborating with the implementation of Telephone Exchange Servers based on Asterisk (Linux CentOS).
 - 💬🤔 Every day I ask myself if I learned something new.
-- - 😄📫 Contact me: Whatsapp: 71988414543 / Phone: 71984337778 / Email: devjorgedantas@gmail
+- 😄📫 Contact me: Whatsapp: 71988414543 / Phone: 71984337778 / Email: devjorgedantas@gmail
 
 Want to connect with me?
 https://linkedin.com/in/devjorgedantas
