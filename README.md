@@ -9,7 +9,7 @@ Technologies:
 * Programming Languages ​​and Agile Methodologies: SCRUM, C, C++, JAVA, JavaScript, CSS3, HTML5, PHP
 Code Versioning: Git and Github
 
-- 🌱🔭 I'm currently studying Node.js, React, Express, Prisma, etc.
+- 🌱🔭 I'm currently studying Node.js, React, Express, Prisma, Typescript, etc.
 - 👯 I'm collaborating with the implementation of Telephone Exchange Servers based on Asterisk (Linux CentOS).
 - 💬🤔 Every day I ask myself if I learned something new.
 - 😄📫 Contact me: Whatsapp: 71988414543 / Phone: 71984337778 / Email: devjorgedantas@gmail
@@ -30,7 +30,7 @@ Tecnologias:
 * Linguagens de Programação e Metodologias Ágeis: SCRUM, C, C++, JAVA, JavaScript, CSS3, HTML5, PHP
 Versionamento de código: Git e Github
 
-- 🌱🔭 Atualmente estou estudando Node.js, React, Express, Prisma, etc.
+- 🌱🔭 Atualmente estou estudando Node.js, React, Express, Prisma, Typescript, etc.
 -  👯 Estou colaborando com a implantação de Servidores de Central Telefônica baseado em Asterisk (Linux CentOS).
 - 💬🤔 Todos os dias me questiono se aprendi algo novo.
 - 😄📫 Entre em contato comigo: Whatsapp: 71988414543 / Ligação: 71984337778 / E-mail: devjorgedantas@gmail
